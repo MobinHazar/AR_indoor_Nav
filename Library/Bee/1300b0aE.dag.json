@@ -628,7 +628,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 107,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/UnityEngine.TestRunner.UnityAdditionalFile.txt"
@@ -2859,7 +2859,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 51798,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/UnityEngine.UI.UnityAdditionalFile.txt"
@@ -3557,7 +3557,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 98523,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/UnityEditor.TestRunner.UnityAdditionalFile.txt"
@@ -4317,7 +4317,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 156142,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/UnityEditor.UI.UnityAdditionalFile.txt"
@@ -4938,7 +4938,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 200030,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.AI.Navigation.Editor.ConversionSystem.UnityAdditionalFile.txt"
@@ -5517,7 +5517,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 242092,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.AI.Navigation.UnityAdditionalFile.txt"
@@ -6053,7 +6053,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 282334,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.EditorCoroutines.Editor.UnityAdditionalFile.txt"
@@ -6609,7 +6609,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 323771,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.InputSystem.UnityAdditionalFile.txt"
@@ -7536,7 +7536,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 404155,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.Mathematics.UnityAdditionalFile.txt"
@@ -8156,7 +8156,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 451565,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.UnityAdditionalFile.txt"
@@ -8741,7 +8741,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 495788,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.PlasticSCM.Editor.UnityAdditionalFile.txt"
@@ -9614,7 +9614,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 567713,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.Rider.Editor.UnityAdditionalFile.txt"
@@ -10190,7 +10190,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 611374,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.Settings.Editor.UnityAdditionalFile.txt"
@@ -10755,7 +10755,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 653528,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.UnityAdditionalFile.txt"
@@ -11322,7 +11322,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 696541,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.UnityAdditionalFile.txt"
@@ -11878,7 +11878,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 738324,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.TextMeshPro.UnityAdditionalFile.txt"
@@ -12468,7 +12468,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 783327,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.Timeline.UnityAdditionalFile.txt"
@@ -13072,7 +13072,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 829359,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.VSCode.Editor.UnityAdditionalFile.txt"
@@ -13632,7 +13632,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 871134,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.VisualStudio.Editor.UnityAdditionalFile.txt"
@@ -14209,7 +14209,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 914720,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.XR.ARAnalytics.Editor.UnityAdditionalFile.txt"
@@ -14765,7 +14765,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 956174,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.XR.Management.UnityAdditionalFile.txt"
@@ -15303,7 +15303,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 996580,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/UnityEngine.SpatialTracking.UnityAdditionalFile.txt"
@@ -15837,7 +15837,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1036763,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.AI.Navigation.Editor.UnityAdditionalFile.txt"
@@ -16444,7 +16444,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1079114,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.CollabProxy.Editor.UnityAdditionalFile.txt"
@@ -17019,7 +17019,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1120413,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.InputSystem.ForUI.UnityAdditionalFile.txt"
@@ -17575,7 +17575,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1160717,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.InputSystem.TestFramework.UnityAdditionalFile.txt"
@@ -18089,7 +18089,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1199130,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.Mathematics.Editor.UnityAdditionalFile.txt"
@@ -18667,7 +18667,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1240749,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.TestTools.CodeCoverage.Editor.UnityAdditionalFile.txt"
@@ -19314,7 +19314,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1286036,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.TextMeshPro.Editor.UnityAdditionalFile.txt"
@@ -19936,7 +19936,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1331655,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.Timeline.Editor.UnityAdditionalFile.txt"
@@ -20782,7 +20782,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1396882,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.VisualScripting.Core.UnityAdditionalFile.txt"
@@ -21746,7 +21746,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1490679,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.XR.ARSubsystems.UnityAdditionalFile.txt"
@@ -22387,7 +22387,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1542770,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.XR.CoreUtils.UnityAdditionalFile.txt"
@@ -23023,7 +23023,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1590185,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.XR.Management.Editor.UnityAdditionalFile.txt"
@@ -23630,7 +23630,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1634346,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/UnityEditor.SpatialTracking.UnityAdditionalFile.txt"
@@ -24187,7 +24187,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1675733,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/UnityEngine.XR.LegacyInputHelpers.UnityAdditionalFile.txt"
@@ -24726,7 +24726,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1716174,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.AI.Navigation.Updater.UnityAdditionalFile.txt"
@@ -25313,7 +25313,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1758244,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.VisualScripting.Core.Editor.UnityAdditionalFile.txt"
@@ -26357,7 +26357,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1855987,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.VisualScripting.Flow.UnityAdditionalFile.txt"
@@ -27298,7 +27298,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1945220,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.XR.ARCore.UnityAdditionalFile.txt"
@@ -27904,7 +27904,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1989124,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.XR.ARFoundation.InternalUtils.UnityAdditionalFile.txt"
@@ -28471,7 +28471,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2030065,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.XR.ARKit.FaceTracking.UnityAdditionalFile.txt"
@@ -29009,7 +29009,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2070348,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.XR.ARKit.UnityAdditionalFile.txt"
@@ -29629,7 +29629,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2117301,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.XR.ARSubsystems.Editor.UnityAdditionalFile.txt"
@@ -30221,7 +30221,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2159888,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.XR.CoreUtils.Editor.UnityAdditionalFile.txt"
@@ -30818,7 +30818,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2204994,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/UnityEditor.XR.LegacyInputHelpers.UnityAdditionalFile.txt"
@@ -31406,7 +31406,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2247214,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.VisualScripting.Flow.Editor.UnityAdditionalFile.txt"
@@ -32179,7 +32179,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2309231,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.VisualScripting.State.UnityAdditionalFile.txt"
@@ -32749,7 +32749,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2352658,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.XR.ARCore.Editor.UnityAdditionalFile.txt"
@@ -33390,7 +33390,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2395485,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.XR.ARFoundation.UnityAdditionalFile.txt"
@@ -34039,7 +34039,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2444053,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.XR.Simulation.UnityAdditionalFile.txt"
@@ -34658,7 +34658,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2492159,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.UnityAdditionalFile.txt"
@@ -35276,7 +35276,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2535376,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.VisualScripting.State.Editor.UnityAdditionalFile.txt"
@@ -35916,7 +35916,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2585323,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.XR.ARFoundation.Editor.UnityAdditionalFile.txt"
@@ -36554,7 +36554,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2629241,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.XR.ARFoundation.VisualScripting.UnityAdditionalFile.txt"
@@ -37140,7 +37140,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2674684,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.XR.ARKit.Editor.UnityAdditionalFile.txt"
@@ -37783,7 +37783,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2718817,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.XR.Simulation.Editor.UnityAdditionalFile.txt"
@@ -38415,7 +38415,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2764371,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.VisualScripting.Shared.Editor.UnityAdditionalFile.txt"
@@ -39010,7 +39010,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2806645,
       "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "D:\\University\\Bachelor project",
+      "PayloadDebugContentSnippet": "D:\\University\\Bachelor_project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.XR.ARFoundation.VisualScripting.Editor.UnityAdditionalFile.txt"
@@ -41400,7 +41400,7 @@
     {
       "Annotation": "BuildPlayerDataGenerator Library/BuildPlayerData/Editor/TypeDb-All.json",
       "DisplayName": "BuildPlayerDataGenerator TypeDb-All",
-      "Action": "\"D:/Apps/unity/Unityes/2022.3.60f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"D:/Apps/unity/Unityes/2022.3.60f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"D:\\University\\Bachelor project\\AR_Navigation\\Library\\ScriptAssemblies\\Unity.AI.Navigation.dll\" -a=\"D:\\University\\Bachelor project\\AR_Navigation\\Library\\ScriptAssemblies\\Unity.InputSystem.dll\" -a=\"D:\\University\\Bachelor project\\AR_Navigation\\Library\\ScriptAssemblies\\Unity.InputSystem.ForUI.dll\" -a=\"D:\\University\\Bachelor project\\AR_Navigation\\Library\\ScriptAssemblies\\Unity.InputSystem.TestFramework.dll\" -a=\"D:\\University\\Bachelor project\\AR_Navigation\\Library\\ScriptAssemblies\\Unity.Mathematics.dll\" -a=\"D:\\University\\Bachelor project\\AR_Navigation\\Library\\ScriptAssemblies\\Unity.TextMeshPro.dll\" -a=\"D:\\University\\Bachelor project\\AR_Navigation\\Library\\ScriptAssemblies\\Unity.Timeline.dll\" -a=\"D:\\University\\Bachelor project\\AR_Navigation\\Library\\ScriptAssemblies\\Unity.VisualScripting.Core.dll\" -a=\"D:\\University\\Bachelor project\\AR_Navigation\\Library\\ScriptAssemblies\\Unity.VisualScripting.Flow.dll\" -a=\"D:\\University\\Bachelor project\\AR_Navigation\\Library\\ScriptAssemblies\\Unity.VisualScripting.State.dll\" -a=\"D:\\University\\Bachelor project\\AR_Navigation\\Library\\ScriptAssemblies\\Unity.XR.ARCore.dll\" -a=\"D:\\University\\Bachelor project\\AR_Navigation\\Library\\ScriptAssemblies\\Unity.XR.ARFoundation.dll\" -a=\"D:\\University\\Bachelor project\\AR_Navigation\\Library\\ScriptAssemblies\\Unity.XR.ARFoundation.InternalUtils.dll\" -a=\"D:\\University\\Bachelor project\\AR_Navigation\\Library\\ScriptAssemblies\\Unity.XR.ARFoundation.VisualScripting.dll\" -a=\"D:\\University\\Bachelor project\\AR_Navigation\\Library\\ScriptAssemblies\\Unity.XR.ARKit.dll\" -a=\"D:\\University\\Bachelor project\\AR_Navigation\\Library\\ScriptAssemblies\\Unity.XR.ARKit.FaceTracking.dll\" -a=\"D:\\University\\Bachelor project\\AR_Navigation\\Library\\ScriptAssemblies\\Unity.XR.ARSubsystems.dll\" -a=\"D:\\University\\Bachelor project\\AR_Navigation\\Library\\ScriptAssemblies\\Unity.XR.CoreUtils.dll\" -a=\"D:\\University\\Bachelor project\\AR_Navigation\\Library\\ScriptAssemblies\\Unity.XR.Management.dll\" -a=\"D:\\University\\Bachelor project\\AR_Navigation\\Library\\ScriptAssemblies\\Unity.XR.Simulation.dll\" -a=\"D:\\University\\Bachelor project\\AR_Navigation\\Library\\ScriptAssemblies\\UnityEngine.SpatialTracking.dll\" -a=\"D:\\University\\Bachelor project\\AR_Navigation\\Library\\ScriptAssemblies\\UnityEngine.TestRunner.dll\" -a=\"D:\\University\\Bachelor project\\AR_Navigation\\Library\\ScriptAssemblies\\UnityEngine.UI.dll\" -a=\"D:\\University\\Bachelor project\\AR_Navigation\\Library\\ScriptAssemblies\\UnityEngine.XR.LegacyInputHelpers.dll\" -a=\"D:\\University\\Bachelor project\\AR_Navigation\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\\nunit.framework.dll\" -a=\"D:\\University\\Bachelor project\\AR_Navigation\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.6\\lib\\ReportGenerator\\ReportGeneratorMerged.dll\" -a=\"D:\\University\\Bachelor project\\AR_Navigation\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"D:\\Apps\\unity\\Unityes\\2022.3.60f1\\Editor\\Data\\Managed\\UnityEngine\" -s=\"D:\\Apps\\unity\\Unityes\\2022.3.60f1\\Editor\\Data\\UnityReferenceAssemblies\\unity-4.8-api\" -s=\"D:\\Apps\\unity\\Unityes\\2022.3.60f1\\Editor\\Data\\UnityReferenceAssemblies\\unity-4.8-api\\Facades\" -s=\"D:\\University\\Bachelor project\\AR_Navigation\\Library\\ScriptAssemblies\" -s=\"D:\\University\\Bachelor project\\AR_Navigation\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\" -s=\"D:\\University\\Bachelor project\\AR_Navigation\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.6\\lib\\ReportGenerator\" -s=\"D:\\University\\Bachelor project\\AR_Navigation\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
+      "Action": "\"D:/Apps/unity/Unityes/2022.3.60f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"D:/Apps/unity/Unityes/2022.3.60f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"D:\\University\\Bachelor_project\\AR_Navigation\\Library\\ScriptAssemblies\\Unity.AI.Navigation.dll\" -a=\"D:\\University\\Bachelor_project\\AR_Navigation\\Library\\ScriptAssemblies\\Unity.InputSystem.dll\" -a=\"D:\\University\\Bachelor_project\\AR_Navigation\\Library\\ScriptAssemblies\\Unity.InputSystem.ForUI.dll\" -a=\"D:\\University\\Bachelor_project\\AR_Navigation\\Library\\ScriptAssemblies\\Unity.InputSystem.TestFramework.dll\" -a=\"D:\\University\\Bachelor_project\\AR_Navigation\\Library\\ScriptAssemblies\\Unity.Mathematics.dll\" -a=\"D:\\University\\Bachelor_project\\AR_Navigation\\Library\\ScriptAssemblies\\Unity.TextMeshPro.dll\" -a=\"D:\\University\\Bachelor_project\\AR_Navigation\\Library\\ScriptAssemblies\\Unity.Timeline.dll\" -a=\"D:\\University\\Bachelor_project\\AR_Navigation\\Library\\ScriptAssemblies\\Unity.VisualScripting.Core.dll\" -a=\"D:\\University\\Bachelor_project\\AR_Navigation\\Library\\ScriptAssemblies\\Unity.VisualScripting.Flow.dll\" -a=\"D:\\University\\Bachelor_project\\AR_Navigation\\Library\\ScriptAssemblies\\Unity.VisualScripting.State.dll\" -a=\"D:\\University\\Bachelor_project\\AR_Navigation\\Library\\ScriptAssemblies\\Unity.XR.ARCore.dll\" -a=\"D:\\University\\Bachelor_project\\AR_Navigation\\Library\\ScriptAssemblies\\Unity.XR.ARFoundation.dll\" -a=\"D:\\University\\Bachelor_project\\AR_Navigation\\Library\\ScriptAssemblies\\Unity.XR.ARFoundation.InternalUtils.dll\" -a=\"D:\\University\\Bachelor_project\\AR_Navigation\\Library\\ScriptAssemblies\\Unity.XR.ARFoundation.VisualScripting.dll\" -a=\"D:\\University\\Bachelor_project\\AR_Navigation\\Library\\ScriptAssemblies\\Unity.XR.ARKit.dll\" -a=\"D:\\University\\Bachelor_project\\AR_Navigation\\Library\\ScriptAssemblies\\Unity.XR.ARKit.FaceTracking.dll\" -a=\"D:\\University\\Bachelor_project\\AR_Navigation\\Library\\ScriptAssemblies\\Unity.XR.ARSubsystems.dll\" -a=\"D:\\University\\Bachelor_project\\AR_Navigation\\Library\\ScriptAssemblies\\Unity.XR.CoreUtils.dll\" -a=\"D:\\University\\Bachelor_project\\AR_Navigation\\Library\\ScriptAssemblies\\Unity.XR.Management.dll\" -a=\"D:\\University\\Bachelor_project\\AR_Navigation\\Library\\ScriptAssemblies\\Unity.XR.Simulation.dll\" -a=\"D:\\University\\Bachelor_project\\AR_Navigation\\Library\\ScriptAssemblies\\UnityEngine.SpatialTracking.dll\" -a=\"D:\\University\\Bachelor_project\\AR_Navigation\\Library\\ScriptAssemblies\\UnityEngine.TestRunner.dll\" -a=\"D:\\University\\Bachelor_project\\AR_Navigation\\Library\\ScriptAssemblies\\UnityEngine.UI.dll\" -a=\"D:\\University\\Bachelor_project\\AR_Navigation\\Library\\ScriptAssemblies\\UnityEngine.XR.LegacyInputHelpers.dll\" -a=\"D:\\University\\Bachelor_project\\AR_Navigation\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\\nunit.framework.dll\" -a=\"D:\\University\\Bachelor_project\\AR_Navigation\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.6\\lib\\ReportGenerator\\ReportGeneratorMerged.dll\" -a=\"D:\\University\\Bachelor_project\\AR_Navigation\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"D:\\Apps\\unity\\Unityes\\2022.3.60f1\\Editor\\Data\\Managed\\UnityEngine\" -s=\"D:\\Apps\\unity\\Unityes\\2022.3.60f1\\Editor\\Data\\UnityReferenceAssemblies\\unity-4.8-api\" -s=\"D:\\Apps\\unity\\Unityes\\2022.3.60f1\\Editor\\Data\\UnityReferenceAssemblies\\unity-4.8-api\\Facades\" -s=\"D:\\University\\Bachelor_project\\AR_Navigation\\Library\\ScriptAssemblies\" -s=\"D:\\University\\Bachelor_project\\AR_Navigation\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\" -s=\"D:\\University\\Bachelor_project\\AR_Navigation\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.6\\lib\\ReportGenerator\" -s=\"D:\\University\\Bachelor_project\\AR_Navigation\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
       "Inputs": [
         "D:/Apps/unity/Unityes/2022.3.60f1/Editor/Data/Tools/netcorerun/netcorerun.exe",
         "D:/Apps/unity/Unityes/2022.3.60f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe",
@@ -41815,6 +41815,6 @@
   "SharedResources": [],
   "Scanners": [],
   "Identifier": "Library/Bee/1300b0aE.dag.json",
-  "PayloadsFile": "D:/University/Bachelor project/AR_Navigation/Library/Bee/1300b0aE.dag.payloads",
+  "PayloadsFile": "D:/University/Bachelor_project/AR_Navigation/Library/Bee/1300b0aE.dag.payloads",
   "RelativePathToRoot": "../.."
 }
